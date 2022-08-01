@@ -1,0 +1,153 @@
+.top-banner{  margin-top: -3%;
+    background-image: url(image/images/Ukrainian_refugees_.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height:750px;
+    background-size:cover;
+}
+h1{   
+    color: crimson; 
+text-align: center;
+font-size: 130px;
+font-style: normal
+}
+.alignment{
+    text-align: center;
+}
+.color{ font-style: normal;
+ 
+    font-size: 50px;
+    margin-top: 100px;
+    background-color: aqua;
+}
+input{
+    margin-top: 3%;
+    margin-left: 10%;
+    width: 75%;
+    background-color: bisque;
+    text-align: center;
+    border: none;
+    padding: 5px;
+}
+.display-flex{
+padding-left: 10%;
+    display: flex;}
+.box-setup{
+    padding: 20px 2px;
+    color: blueviolet;
+     width: 15%;
+    font-size: 50px;
+    margin-top: 2%;
+    margin-right: 4%;
+    background-color: bisque;
+    border: none;
+}
+.font-set{
+    margin-top: -5%;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+.box-1{ margin-right: 15%;
+    margin-top: 5%;
+    width: 30%;
+    padding-bottom: 100px;
+    padding-right: 30px;
+    padding-left: 20px;
+    width: 400px;
+    height: 400px;
+    background-color: aliceblue;
+    display:flex;
+}
+#orange-color{
+    color: orange;
+}
+.position-center{ 
+    font-style: normal;
+    background-color: orange;
+    font-size: 50px;
+    margin-top: 5px;
+    margin-left: 770px;
+    padding: 10px 20px;
+}
+.resize{
+    width: 40%;
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 30px;
+}
+.adjustment{
+    width: 200px;
+    font-size: 15px;
+    margin-top: 5%;
+    text-align: left;
+    margin-left: -5%;
+}
+.input{
+    margin-top: 5%;
+    margin-left: 190px;
+    width: 75%;
+    padding: 5px;
+}
+h3{
+    text-align: left;
+}
+.box-2{margin-right: 15%;
+    margin-top: 5%;
+    width: 30%;
+    padding-bottom: 100px;
+    padding-right: 30px;
+    padding-left: 20px;
+    width: 400px;
+    height: 400px;
+    background-color: antiquewhite;
+    display:flex;
+}
+.box-3{margin-right: 15%;
+    margin-top: 5%;
+    padding-bottom: 100px;
+    padding-right: 30px;
+    padding-left: 20px;
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+    display:flex;
+}
+.display-flex{
+    display: flex;
+    margin-left: 10%;
+}
+.risks-display{
+    margin-top: 40px;
+    margin-left: 2px;
+    display: flex;
+}
+h2{
+    font-size: 50px;
+}
+.life-risks{
+    width: 35%;
+    margin-right: 20px;
+    border: none;
+    display: grid;
+}
+.pic-size{ margin-right: 50px; 
+    padding-left: 50px;
+}
+.contact{
+    width: 200px;
+    height: 50px;
+    border: 2px solid navy;
+    font-size: 25px;
+    background-color: azure;
+    margin-top: 15%;
+}
+footer{font-size: 25px;
+    font-style: italic;
+    text-align: center;
+    border-top: 2px solid crimson;
+    border-bottom: 2px solid crimson;
+    margin-top: 20px;
+}
+
+}

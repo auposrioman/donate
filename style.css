@@ -20,17 +20,20 @@ font-style: normal
     margin-top: 100px;
     background-color: aqua;
 }
-input{
+.other-amount{
     margin-top: 3%;
-    margin-left: 10%;
+    margin-left: 200px;
     width: 75%;
     background-color: bisque;
     text-align: center;
     border: none;
     padding: 5px;
 }
+.no-box{
+    border: none;
+}
 .display-flex{
-padding-left: 10%;
+margin-left: 200px;
     display: flex;}
 .box-setup{
     padding: 20px 2px;
@@ -47,6 +50,7 @@ padding-left: 10%;
     font-size: 30px;
     color: black;
     text-align: center;
+    font-weight: 600;
 }
 .box-1{ margin-right: 15%;
     margin-top: 5%;
@@ -70,6 +74,10 @@ padding-left: 10%;
     margin-left: 770px;
     padding: 10px 20px;
 }
+body{
+    font-family: 'Libre Baskerville', serif;
+font-family: 'Poppins', sans-serif;
+}
 .resize{
     width: 40%;
     margin-top: 20px;
@@ -83,11 +91,6 @@ padding-left: 10%;
     text-align: left;
     margin-left: -5%;
 }
-.input{
-    margin-top: 5%;
-    margin-left: 190px;
-    width: 75%;
-    padding: 5px;
 }
 h3{
     text-align: left;
@@ -113,41 +116,76 @@ h3{
     background-color: aqua;
     display:flex;
 }
-.display-flex{
-    display: flex;
-    margin-left: 10%;
-}
 .risks-display{
-    margin-top: 40px;
-    margin-left: 2px;
+    margin-top: 100px;
+    margin-left: -46px;
     display: flex;
 }
 h2{
     font-size: 50px;
 }
 .life-risks{
-    width: 35%;
-    margin-right: 20px;
+    width: 25%;
+    margin-left: 10%;
     border: none;
     display: grid;
 }
 .pic-size{ margin-right: 50px; 
     padding-left: 50px;
+    margin-left: 200px;
+    width: 35%
+}
+.pic-size img{
+    width: 120%;
 }
 .contact{
     width: 200px;
     height: 50px;
     border: 2px solid navy;
-    font-size: 25px;
+    font-size: 20px;
     background-color: azure;
-    margin-top: 15%;
+    margin-top: 8%;
 }
-footer{font-size: 25px;
+footer{font-size: 50px;
     font-style: italic;
     text-align: center;
     border-top: 2px solid crimson;
     border-bottom: 2px solid crimson;
     margin-top: 20px;
-}
+    font-weight: 500;
+    background-color: black;
+    color: crimson;
+    height: 80px;
+    text-align: center;
 
+}
+.update{
+    margin-left: 11%;
+    margin-bottom: -2%;
+}
+.margin{
+    margin-bottom: -1%;
+}
+form{
+    margin-top: 5%;
+    margin-left: 11%;
+    padding-top: 3%;
+    ;padding-left: 7%;
+    padding-right: 2%;
+    width: 500px;
+    height: 100px;
+    border: 1px solid orange;
+    background-color: antiquewhite;
+    display: flex;
+}
+.color{background-color: rgb(150, 105, 172);
+    font-size: 20px;
+    margin-bottom: 10%;
+    margin-top: 0%;
+}
+.background-color{
+    font-size: 100%;
+    background-color: darkgrey;
+    width: 50%;
+    margin-bottom: 10%;  
 }
